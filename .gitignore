@@ -1,0 +1,6 @@
+.env
+storage
+.conda
+__pycache__
+.vscode
+.devcontainer
